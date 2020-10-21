@@ -1,3 +1,7 @@
+body {
+    background-color: #f5f5f5;
+}
+
 li {
   padding: 5px;
   margin: 5px;
@@ -16,4 +20,13 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.devoured {
+    text-decoration: line-through;
+}
+
+img {
+    height: 500px;
+    width: 500px;
 }
